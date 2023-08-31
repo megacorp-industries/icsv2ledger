@@ -1,0 +1,8 @@
+[SAV]
+account=Assets:PC:Checking Account
+currency=AUD
+debit=0
+credit=4
+date=2
+csv_date_format=%d/%m/%Y
+ledger_date_format=%Y/%m/%d

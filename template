@@ -1,0 +1,5 @@
+{date} {cleared_character} {payee}
+
+    {debit_account:<50}    {debit_currency} {debit}
+    {credit_account:<50}    {credit_currency} {credit}
+    {tags}
